@@ -17,5 +17,4 @@ One day, an urgent message arrived in Binaryville. The city's central computer,
 which controlled everything from traffic lights to financial transactions, 
 had been infected by a mysterious and malicious virus. The entire city was in chaos 
 as systems malfunctioned and communication broke down.
-
-<pre>
+</pre>
